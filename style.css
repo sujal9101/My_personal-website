@@ -1,0 +1,106 @@
+body
+{
+    margin: 0;
+    text-align: center;
+    background-color: #CFF5E7;
+}
+h1
+{
+    margin-top:0;
+    margin-bottom: 10px;
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 55px;
+    color: #132F2B;
+}
+h2
+{
+    margin-top:0;
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 30px;
+    color: #132F2B;
+}
+p
+{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:500;
+    color: #132F2B;
+    
+}
+hr
+{
+    border-style: none;
+    border-top-style:  dotted;
+    border-color: #439A97;
+    border-width: 5px;
+    width: 90%;
+}
+.top
+{
+    background-color: #CFF5E7;
+    position: relative;
+    /* padding: 10px; */
+}
+.top_cloud
+{
+    margin-top: 10px;
+    margin-left: 55%;
+    width: 17%;
+}
+.bottom_cloud
+{
+    margin-bottom: 20%;
+    margin-left: 10%;
+    width: 20%;
+}
+.mountain
+{
+    margin-bottom: 10px;
+    margin-right: 26%;
+}
+.sujal
+{
+    width: 200px;
+    border-radius: 100%;
+    border: 7px solid #3D5656;
+}
+table, th, td 
+{
+    border: 1px solid;
+    width: 35%;
+    border-collapse: collapse;
+    margin: auto;
+}
+ul
+{
+    margin-left: 45%;
+    margin-right: 50%;
+}
+.aws_certificate
+{
+    width: 15%;
+}
+.cpp_certificate
+{
+    width: 13.9%;
+    border:2px solid black;
+}
+.dsa_certificate
+{
+    width: 13.9%;
+    border: 2px solid black;
+}
+.elab-lv1_certificate
+{
+    width: 17%;
+}
+.elab-lv2_certificate
+{
+    width: 17%;
+}
+.footer-link:hover
+{
+    color: #41975b;
+}
